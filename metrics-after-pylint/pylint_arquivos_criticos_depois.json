@@ -1,0 +1,308 @@
+[
+  {
+    "arquivo": "lifelines\\lifelines\\tests\\test_estimation.py",
+    "convention": 1000,
+    "total": 1360,
+    "warning": 340,
+    "error": 7,
+    "refactor": 13
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\__init__.py",
+    "convention": 498,
+    "total": 709,
+    "error": 63,
+    "warning": 74,
+    "refactor": 74
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\coxph_fitter.py",
+    "convention": 444,
+    "total": 573,
+    "warning": 57,
+    "error": 6,
+    "refactor": 66
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\utils\\__init__.py",
+    "warning": 15,
+    "total": 277,
+    "convention": 216,
+    "error": 3,
+    "refactor": 43
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\tests\\test_plotting.py",
+    "convention": 198,
+    "total": 256,
+    "warning": 32,
+    "refactor": 26
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\statistics.py",
+    "convention": 111,
+    "total": 146,
+    "refactor": 15,
+    "warning": 16,
+    "error": 4
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\cox_time_varying_fitter.py",
+    "convention": 85,
+    "total": 108,
+    "error": 5,
+    "refactor": 10,
+    "warning": 8
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\plotting.py",
+    "convention": 68,
+    "total": 107,
+    "warning": 13,
+    "error": 5,
+    "refactor": 21
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\tests\\test_statistics.py",
+    "convention": 95,
+    "total": 99,
+    "warning": 4
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\kaplan_meier_fitter.py",
+    "convention": 65,
+    "total": 91,
+    "warning": 15,
+    "refactor": 11
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\aalen_additive_fitter.py",
+    "convention": 68,
+    "total": 80,
+    "refactor": 5,
+    "warning": 7
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\npmle.py",
+    "convention": 41,
+    "total": 64,
+    "warning": 7,
+    "refactor": 13,
+    "error": 3
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\aalen_johansen_fitter.py",
+    "convention": 49,
+    "total": 62,
+    "warning": 11,
+    "refactor": 2
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\mixins.py",
+    "convention": 44,
+    "total": 54,
+    "error": 1,
+    "refactor": 6,
+    "warning": 3
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\log_normal_aft_fitter.py",
+    "convention": 27,
+    "total": 39,
+    "error": 5,
+    "warning": 5,
+    "refactor": 2
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\generate_datasets.py",
+    "convention": 27,
+    "total": 36,
+    "warning": 2,
+    "refactor": 6,
+    "error": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\tests\\test_npmle.py",
+    "convention": 25,
+    "total": 35,
+    "warning": 10
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\generalized_gamma_regression_fitter.py",
+    "convention": 21,
+    "total": 34,
+    "warning": 5,
+    "error": 7,
+    "refactor": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\generalized_gamma_fitter.py",
+    "convention": 13,
+    "total": 28,
+    "error": 11,
+    "warning": 4
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\nelson_aalen_fitter.py",
+    "convention": 22,
+    "total": 28,
+    "refactor": 3,
+    "warning": 3
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\datasets\\__init__.py",
+    "convention": 27,
+    "total": 27
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\utils\\printer.py",
+    "convention": 20,
+    "total": 26,
+    "warning": 3,
+    "refactor": 3
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\weibull_aft_fitter.py",
+    "convention": 15,
+    "total": 25,
+    "error": 3,
+    "warning": 6,
+    "refactor": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\crc_spline_fitter.py",
+    "convention": 19,
+    "total": 24,
+    "error": 1,
+    "warning": 3,
+    "refactor": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\spline_fitter.py",
+    "convention": 12,
+    "total": 23,
+    "error": 1,
+    "refactor": 1,
+    "warning": 9
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\calibration.py",
+    "convention": 20,
+    "total": 21,
+    "refactor": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\mixture_cure_fitter.py",
+    "convention": 13,
+    "total": 21,
+    "error": 1,
+    "warning": 7
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\breslow_fleming_harrington_fitter.py",
+    "convention": 8,
+    "total": 20,
+    "warning": 11,
+    "refactor": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\utils\\concordance.py",
+    "convention": 16,
+    "total": 20,
+    "warning": 1,
+    "refactor": 3
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\log_logistic_aft_fitter.py",
+    "convention": 9,
+    "total": 17,
+    "error": 1,
+    "warning": 5,
+    "refactor": 2
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\piecewise_exponential_regression_fitter.py",
+    "convention": 12,
+    "total": 16,
+    "error": 1,
+    "refactor": 1,
+    "warning": 2
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\tests\\test_generate_datasets.py",
+    "convention": 14,
+    "total": 15,
+    "warning": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\log_normal_fitter.py",
+    "convention": 9,
+    "total": 14,
+    "error": 4,
+    "warning": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\log_logistic_fitter.py",
+    "convention": 10,
+    "total": 12,
+    "error": 1,
+    "warning": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\weibull_fitter.py",
+    "convention": 6,
+    "total": 12,
+    "error": 1,
+    "warning": 5
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\piecewise_exponential_fitter.py",
+    "convention": 7,
+    "total": 10,
+    "error": 1,
+    "refactor": 1,
+    "warning": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\exceptions.py",
+    "convention": 8,
+    "total": 9,
+    "refactor": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\utils\\btree.py",
+    "convention": 3,
+    "total": 5,
+    "refactor": 2
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\utils\\safe_exp.py",
+    "error": 2,
+    "total": 5,
+    "convention": 2,
+    "warning": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\fitters\\exponential_fitter.py",
+    "convention": 2,
+    "total": 4,
+    "error": 2
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\utils\\lowess.py",
+    "convention": 2,
+    "total": 4,
+    "refactor": 1,
+    "warning": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\version.py",
+    "convention": 1,
+    "total": 1
+  },
+  {
+    "arquivo": "lifelines\\lifelines\\datasets\\dfcv_dataset.py",
+    "convention": 1,
+    "total": 1
+  }
+]
